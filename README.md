@@ -16,7 +16,7 @@
 
 ## Live Demo
 
-[View Live on Vercel](https://typingpractice-xi.vercel.app/)  
+[View Live on Vercel](https://typing-practice-ashen.vercel.app/)  
 
 ## Installation (for development)
 
